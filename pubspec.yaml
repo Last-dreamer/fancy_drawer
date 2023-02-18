@@ -1,0 +1,15 @@
+name: fancy_drawer
+description: A fancy , animated and customizable drawer for your flutter apps
+version: 2.0.0
+homepage: https://github.com/pacifio/fancy_drawer
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
